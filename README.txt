@@ -4,7 +4,7 @@
 
 软件截图：
 
-![excel助手][(excel文件助手1.png)]
+![excel助手](excel文件助手1.png)
 
 使用方法：
 
