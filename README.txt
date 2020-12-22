@@ -4,7 +4,7 @@
 
 软件截图：
 
-![excel助手](./excel文件助手1.png)
+![excel助手](https://github.com/lybbn/excelassistant/blob/main/excel%E6%96%87%E4%BB%B6%E5%8A%A9%E6%89%8B1.png)
 
 使用方法：
 
